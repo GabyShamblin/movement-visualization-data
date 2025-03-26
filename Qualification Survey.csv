@@ -1,0 +1,54 @@
+Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q15,Q16,Q17,Q18,Q19,Q20,Q20_3_TEXT,Q21,Q22,Q23,Q24,Q25,Q26,Q27,Q27_1_TEXT
+I am 18-64 years old.,I have 20/20 vision with or without contacts and do not regularly wear glasses for corrected vision.,"I have the ability to walk, extend both arms above my head, and use both hands.","I can read, write, speak, and understand English.",I am NOT pregnant,"I do NOT have a pre-existing serious medical condition (e.g., heart ailment, cancer, or other serious disease).","I do NOT  have a pre-existing psychiatric condition (e.g., an anxiety or post-traumatic stress
+disorder).","I do NOT have any visual disabilities (e.g., blindness, color blindness, low vision)","I do NOT have any auditory disabilities (e.g., deafness, hard of hearing).","I do NOT have any neuropathy disabilities (e.g., hypersensitivity, numbness).","I do NOT have any neurological disabilities (e.g., autism, memory impairments).","I do NOT have any physical disabilities (e.g., amputation, tremors and spasms).","I do NOT have any recurring history of the following symptoms:
+
+	Convulsions,
+	Disorientation,
+	Dizziness,
+	Drowsiness,
+	Excessive sweating,
+	Eye pain or discomfort,
+	Eye strain,
+	Eye twitching,
+	Fatigue,
+	Impaired hand-eye coordination,
+	Impaired sense of balance,
+	Increased salivation,
+	Involuntary movements,
+	Lightheadedness,
+	Loss of awareness,
+	Motion sickness,
+	Nausea,
+	Seizures,
+	Vision abnormalities (such as altered, blurred, or double vision)",Have you read the information about the risks involved?,Have you read the information on who to contact with questions about the study?,Have you read the information about withdrawing from the study?,Have you read the information about how your data will be used?,Do you voluntarily consent to participate in this study?,What is your gender? - Selected Choice,What is your gender? - Other - Text,What is your age?,What is your height?,Which hand is your dominant hand?,"On average, how often do you play video games?","On average, how often do you play video games with first-person perspectives?","On average, how often do you experience VR applications and games?",Do you own or possess a VR system? - Selected Choice,Do you own or possess a VR system? - Yes (please specify): - Text
+"{""ImportId"":""QID1""}","{""ImportId"":""QID3""}","{""ImportId"":""QID2""}","{""ImportId"":""QID4""}","{""ImportId"":""QID5""}","{""ImportId"":""QID6""}","{""ImportId"":""QID7""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID12""}","{""ImportId"":""QID13""}","{""ImportId"":""QID15""}","{""ImportId"":""QID16""}","{""ImportId"":""QID17""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID20_3_TEXT""}","{""ImportId"":""QID21_TEXT""}","{""ImportId"":""QID22_TEXT""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID27_1_TEXT""}"
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,31,6',Right hand,Monthly,Monthly,Monthly,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,20,"5' 6""",Right hand,Monthly,Monthly,None,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,21,"5' 8""",Right hand,Weekly,Weekly,Weekly,Yes (please specify):,Oculus quest 2
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,25,"6' 2""",Right hand,Monthly,Monthly,None,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,18,"5' 11""",Right hand,Weekly,Yearly,None,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Female,,29,"5' 8""",Left hand,Weekly,Weekly,Yearly,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Female,,20,5',Right hand,Monthly,Monthly,Yearly,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,29,"5' 10""",Right hand,Monthly,Yearly,Yearly,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,20,"5' 2""",Left hand,Daily,Daily,Monthly,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Female,,21,"5' 5""",Right hand,Weekly,Weekly,Monthly,Yes (please specify):,Oculus Quest 2
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Female,,22,5',Right hand,Yearly,None,Yearly,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Female,,19,"5' 6""",Right hand,Yearly,Yearly,Yearly,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Female,,20,"5' 2""",Right hand,Monthly,Monthly,None,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,19,"5' 7""",Right hand,Weekly,Yearly,Yearly,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,19,"5' 9""",Either hand,Daily,Daily,Yearly,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,21,"6' 2""",Right hand,Weekly,Monthly,Yearly,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,20,"5' 7""",Right hand,Yearly,Yearly,None,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,21,6',Right hand,Yearly,Yearly,Yearly,Yes (please specify):,Oculus VR
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,25,"5' 4""",Right hand,Monthly,Monthly,Monthly,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Female,,20,"5' 5""",Right hand,None,None,None,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,23,"5' 9""",Right hand,Monthly,None,None,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Female,,21,"5' 7""",Left hand,Weekly,Weekly,Yearly,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,21,"5' 8""",Right hand,Daily,Daily,Monthly,Yes (please specify):,Oculus Quest 2
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,21,"6' 3""",Right hand,Monthly,Monthly,None,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,21,"5' 10""",Right hand,Weekly,Monthly,Yearly,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,19,"5' 7""",Right hand,Weekly,Weekly,None,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,22,"5' 10""",Right hand,Daily,Weekly,None,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,21,"6' 4""",Right hand,Weekly,Weekly,None,No,
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,22,"5' 8""",Right hand,Monthly,Yearly,Monthly,Yes (please specify):,Oculus Rift 2
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,,18,"5' 10""",Right hand,Daily,Weekly,Weekly,Yes (please specify):,Valve Index
